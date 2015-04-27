@@ -19,3 +19,10 @@
 操作示例：
 
     $ git clone git://github.com/michael-lau/myfirstproject.git
+
+## Github入门教程
+* [官方教程](https://help.github.com/categories/bootcamp/)
+* [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057)
+* [LinuxIDC上的教程](http://www.linuxidc.com/Linux/2014-09/106230.htm)
+* [一个blog中的教程](http://www.worldhello.net/gotgithub/)
+* [另一个blog中的教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
